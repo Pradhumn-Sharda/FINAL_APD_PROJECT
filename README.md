@@ -2,5 +2,3 @@
 Repo for DevOps integration for a website (college project)
 
 Changing readme file
-
-blah blah
